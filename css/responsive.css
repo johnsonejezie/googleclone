@@ -1,0 +1,57 @@
+@media screen and (min-width: 480px) {
+.button1 {
+	width: auto;
+	margin-left: 0;
+}
+
+#click ul li {
+	float: left;
+}
+
+
+#click {
+	margin-left: 35%;
+}
+
+
+}
+
+#foot {
+	width: 100%;
+}
+footer {
+	width: 100%;
+	display: inline-block;
+}
+#left {
+	width: 45%;
+    height: 35px;
+    font-size: 16px;
+	/*float:left;*/
+	padding: 5px;
+	display: inline-block;
+}
+
+ #right {
+ 	width: 45%;
+    height: 35px;
+    font-size: 16px;
+ 	/*float: left;*/
+ 	padding: 5px;
+ 	text-align: right;
+ }
+#left,#right{
+	display: inline-block;
+}
+
+}
+
+
+
+
+
+
+@media screen and (min-width: 660px) {
+
+}
+	
